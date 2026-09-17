@@ -73,7 +73,7 @@ document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{
   document.getElementById(t.dataset.s).classList.add('active');
   window.scrollTo({top:0,behavior:'smooth'});
 }));
-const P=DATA.property, F=DATA.finance, C=DATA['channel-plan'], T=DATA['outreach-targets'], A=DATA['ad-copy'], S=DATA['sprint-log'], PT=DATA['post-targets'], PS=DATA.personas;
+const P=DATA.property, F=DATA['finance-model'], C=DATA['channel-plan'], T=DATA['outreach-targets'], A=DATA['ad-copy'], S=DATA['sprint-log'], PT=DATA['post-targets'], PS=DATA.personas;
 const fmt=n=>'$'+Number(n).toLocaleString();
 </script>
 <script src="tabs.js"></script>
