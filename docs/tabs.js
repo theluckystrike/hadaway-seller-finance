@@ -102,4 +102,4 @@ ${rows.map(e=>`<tr><td>${e.note||e}</td></tr>`).join('')}
 </table></div>
 <div class="card" style="margin-top:16px"><h3>Blockers (manual only)</h3><ul style="margin-left:18px;font-size:14px;line-height:1.8">
 ${(S.blockers_user_only||[]).map(e=>`<li>${typeof e==='string'?e:e.note||JSON.stringify(e)}</li>`).join('')}
-</ul></div>`;`;
+</ul></div>`;
