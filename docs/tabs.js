@@ -2,6 +2,7 @@
 document.getElementById('overview').innerHTML = `
 <h1>1244 Hadaway Ct NE</h1>
 <p class="sub">Lawrenceville, GA 30043 · ${P.mls ? 'MLS #'+P.mls : ''} · ${P.status} · ${P.dom} days on market</p>
+<p><a href="https://www.zillow.com/homedetails/1244-Hadaway-Ct-Lawrenceville-GA-30043/14802515_zpid" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:var(--blue);color:#fff;border-radius:980px;padding:8px 18px;font-size:14px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,113,227,.35)">View on Zillow ↗</a></p>
 
 <div class="grid g3">
   <div class="card"><h3>List Price</h3><div class="big">${fmt(P.price)}</div><p class="note">Cut ${fmt(P.price_cut.amount)} on ${P.price_cut.date} (was ${fmt(P.price_cut.prior_price)})</p></div>
