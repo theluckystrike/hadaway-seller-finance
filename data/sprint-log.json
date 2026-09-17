@@ -1,0 +1,21 @@
+{
+  "sprint_date": "2026-09-17",
+  "completed": [
+    "Landing page live: https://theluckystrike.github.io/hadaway-seller-finance/ (verified 200 + opened in Chrome)",
+    "Repo: github.com/theluckystrike/hadaway-seller-finance (3 commits)",
+    "Finance model: 4 down-payment scenarios, 8.5%, 30yr/5yr balloon",
+    "Ad copy pack: FB/CL/BP/note-buyer email + objection scripts",
+    "35 note-buyer/investor targets researched; 9 contactable (phones/emails) -> call-sheet.csv",
+    "Buyer-pool channel map -> post-targets.json (4 FB groups, CL, Zillow FSBO, FSBO.com)"
+  ],
+  "blockers_user_only": [
+    "Phone number needed for all ad copy ([YOUR PHONE] placeholders)",
+    "Manual posting to FB Marketplace/FB Groups/Craigslist/Zillow FSBO (no account access)",
+    "Outbound calls/emails from your personal number/email (deliverability + legal)"
+  ],
+  "next_automatable": [
+    "More note-buyer scraping (bigger list)",
+    "Landing page with real phone + form submission endpoint",
+    "Tracking dashboard HTML for leads"
+  ]
+}
