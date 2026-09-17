@@ -1,0 +1,65 @@
+{
+  "generated": "2026-09-17T19:43:15.640194",
+  "priority_channels": [
+    {
+      "rank": 1,
+      "channel": "Facebook Marketplace (FSBO listing, Gwinnett/Atlanta radius)",
+      "cost": "Free",
+      "why": "Highest buyer-lead volume for owner-finance in metro ATL; refresh daily for algorithm boost.",
+      "action": "Post with all 18 Zillow photos, price $580K, 'Owner Financing Available' in first line."
+    },
+    {
+      "rank": 2,
+      "channel": "Facebook Groups (Lawrenceville/Gwinnett 'Homes for Rent/Sale', 'Rent to Own GA', 'Atlanta Owner Finance')",
+      "cost": "Free",
+      "why": "Direct buyer pools, esp. self-employed & credit-repair buyers",
+      "action": "Post 2-3x/week, rotate hooks."
+    },
+    {
+      "rank": 3,
+      "channel": "Craigslist Atlanta (Gwinnett county) \u2014 'real estate for sale' + 'apts/housing'",
+      "cost": "Free",
+      "why": "Still the #2 owner-finance lead source per BP/REI community consensus",
+      "action": "Post daily, rotate cities: Lawrenceville, Duluth, Suwanee, Norcross, Snellville."
+    },
+    {
+      "rank": 4,
+      "channel": "BiggerPockets \u2014 Marketplace + GA forum",
+      "cost": "Free",
+      "why": "Investor & note-buyer traffic",
+      "action": "Post in 'Real Estate Marketplace' + 'Seller Financing / Notes' subforums."
+    },
+    {
+      "rank": 5,
+      "channel": "Note/Investor buyer list outreach",
+      "cost": "Free-$100",
+      "why": "Sell the property OR sell the note fast to note funds",
+      "action": "Email 10-15 GA note companies + REIA (Georgia REIA, Atlanta REIA) blast."
+    },
+    {
+      "rank": 6,
+      "channel": "Signage",
+      "cost": "~$15",
+      "why": "Cul-de-sac = low drive-by; bandit signs at 3 nearest intersections convert",
+      "action": "'OWNER FINANCE 6BR \u2014 $580K \u2014 $XX/mo \u2014 404-XXX-XXXX' at Hwy 29/Sugarloaf Pkwy & I-85 exits."
+    },
+    {
+      "rank": 7,
+      "channel": "Paid boost (optional)",
+      "cost": "$50-150",
+      "why": "FB boost to 25mi radius, interests: rent-to-own, bad credit home loans",
+      "action": "Boost top-performing organic post only after 48h signal."
+    }
+  ],
+  "price_strategy": {
+    "issue": "At $580K list vs Zestimate $570.6K, and comps selling $448-495K, property is priced above comp band. Owner finance justifies premium but 56 DOM + price cut signals market resistance.",
+    "recommendation": "Keep $580K headline, but advertise 'Move-in with $15-25K down' \u2014 DP flexibility is the real product being sold, not the price."
+  },
+  "legal_guardrails": [
+    "GA: Doddrick/respa \u2014 use licensed GA closing attorney (e.g., local real estate closing attorney) to draft the note + security deed; do NOT use internet templates",
+    "GA is a lien theory state \u2014 security deed (not land contract) strongly preferred; protects both parties",
+    "Disclose 'As Is' condition per listing",
+    "Dodd-Frank: if seller does >1 seller-finance deal/yr, may trigger Dodd-Frank MLO requirements \u2014 attorney will confirm exemption status",
+    "HOA: $775/yr \u2014 include estoppel/transfer in closing checklist"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "address": "1244 Hadaway Ct NE, Lawrenceville, GA 30043",
+  "zpid": "14802515",
+  "mls": "10811256",
+  "parcel": "R7025 080",
+  "status": "Active",
+  "price": 580000,
+  "price_cut": {
+    "date": "8/7",
+    "amount": 20000,
+    "prior_price": 600000
+  },
+  "list_date": "2026-07-23",
+  "dom": 56,
+  "views": 119,
+  "saves": 1,
+  "beds": 6,
+  "baths": 3,
+  "sqft": 3650,
+  "ppsf": 159,
+  "lot_acres": 0.29,
+  "year_built": 1993,
+  "hoa_annual": 775,
+  "tax_assessed": 484800,
+  "annual_tax": 7198,
+  "zestimate": 570600,
+  "zestimate_range": [
+    542000,
+    599000
+  ],
+  "rent_zestimate": 2999,
+  "subdivision": "Hadaway",
+  "features": [
+    "stone fireplace",
+    "crown molding",
+    "hardwood floors",
+    "quiet cul-de-sac",
+    "stainless appliances",
+    "finished basement in-law suite w/ separate entry",
+    "granite counters",
+    "tray/vaulted ceilings",
+    "attached 2-car garage"
+  ],
+  "agent": "Nikhil Sharma, TOP Brokerage, 855-573-3021",
+  "seller_financing": true,
+  "special_conditions": "As Is",
+  "comps": [
+    {
+      "addr": "997 Sunny Glen Ct",
+      "price": 448000,
+      "beds": 6,
+      "baths": 3,
+      "sqft": "3.6k",
+      "status": "Sold"
+    },
+    {
+      "addr": "1205 Grace Hadaway Ln",
+      "price": 495000,
+      "beds": 5,
+      "baths": 3,
+      "sqft": "3.2k",
+      "status": "Closed"
+    },
+    {
+      "addr": "1021 Adah Ln",
+      "price": 485000,
+      "beds": 5,
+      "baths": 3,
+      "sqft": "--",
+      "status": "Closed"
+    },
+    {
+      "addr": "977 Sunny Glen Ct",
+      "price": 485000,
+      "beds": 5,
+      "baths": 3,
+      "sqft": "4.0k",
+      "status": "Sold"
+    }
+  ],
+  "source_urls": [
+    "https://www.zillow.com/homedetails/1244-Hadaway-Ct-Lawrenceville-GA-30043/14802515_zpid",
+    "https://www.redfin.com/GA/Lawrenceville/1244-Hadaway-Ct-30043/home/24933438"
+  ]
+}

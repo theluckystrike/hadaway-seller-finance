@@ -1,0 +1,44 @@
+{
+  "assumptions": {
+    "down_payment_options": [
+      15000,
+      20000,
+      25000,
+      30000
+    ],
+    "note_rate_pct": 8.5,
+    "term_years": 30,
+    "balloon_year": 5,
+    "price": 580000
+  },
+  "scenarios": [
+    {
+      "down": 15000,
+      "note": 565000,
+      "monthly_piti_excl_tax_ins": 4344.36,
+      "balloon_5yr": 539520.0,
+      "total_interest_5yr": 235181.67
+    },
+    {
+      "down": 20000,
+      "note": 560000,
+      "monthly_piti_excl_tax_ins": 4305.92,
+      "balloon_5yr": 534745.49,
+      "total_interest_5yr": 233100.42
+    },
+    {
+      "down": 25000,
+      "note": 555000,
+      "monthly_piti_excl_tax_ins": 4267.47,
+      "balloon_5yr": 529970.98,
+      "total_interest_5yr": 231019.17
+    },
+    {
+      "down": 30000,
+      "note": 550000,
+      "monthly_piti_excl_tax_ins": 4229.02,
+      "balloon_5yr": 525196.46,
+      "total_interest_5yr": 228937.91
+    }
+  ]
+}
