@@ -1,4 +1,4 @@
-const DATA = {
+const DATA={
  "outreach-targets": [
   {
    "name": "MORTGAGE NOTE BUYERS ATHENS GA - Houzz",
@@ -17,7 +17,7 @@ const DATA = {
    "emails": []
   },
   {
-   "name": "Note Buyers in Georgia \u2013 Sell A Private Mortgage ... - Oneca Group",
+   "name": "Note Buyers in Georgia - Sell A Private Mortgage ... - Oneca Group",
    "url": "https://www.onecagroupinvestments.com/step-2/local-note-buyers/",
    "phones": [
     "678-665-0545"
@@ -43,7 +43,7 @@ const DATA = {
    ]
   },
   {
-   "name": "SCAM ALERT \u2013 WASHINGTON COUNTY RESIDENTS ... - Facebook",
+   "name": "SCAM ALERT - WASHINGTON COUNTY RESIDENTS ... - Facebook",
    "url": "https://www.facebook.com/Washingtoncountysheriffgeorgia/posts/-scam-alert-washington-county-residents-a-washington-county-resident-recently-re/1503814128421279/"
   },
   {
@@ -170,7 +170,7 @@ const DATA = {
    "url": "https://robertbuyshousesnow.com/atlanta"
   },
   {
-   "name": "We Buy Houses Atlanta GA \u2013 Get Your House Sold in 2026!",
+   "name": "We Buy Houses Atlanta GA - Get Your House Sold in 2026!",
    "url": "https://www.stephburtcashoffers.com/"
   },
   {
@@ -234,14 +234,14 @@ const DATA = {
    },
    {
     "rank": 3,
-    "channel": "Craigslist Atlanta (Gwinnett county) \u2014 'real estate for sale' + 'apts/housing'",
+    "channel": "Craigslist Atlanta (Gwinnett county) ,  'real estate for sale' + 'apts/housing'",
     "cost": "Free",
     "why": "Still the #2 owner-finance lead source per BP/REI community consensus",
     "action": "Post daily, rotate cities: Lawrenceville, Duluth, Suwanee, Norcross, Snellville."
    },
    {
     "rank": 4,
-    "channel": "BiggerPockets \u2014 Marketplace + GA forum",
+    "channel": "BiggerPockets ,  Marketplace + GA forum",
     "cost": "Free",
     "why": "Investor & note-buyer traffic",
     "action": "Post in 'Real Estate Marketplace' + 'Seller Financing / Notes' subforums."
@@ -258,7 +258,7 @@ const DATA = {
     "channel": "Signage",
     "cost": "~$15",
     "why": "Cul-de-sac = low drive-by; bandit signs at 3 nearest intersections convert",
-    "action": "'OWNER FINANCE 6BR \u2014 $580K \u2014 $XX/mo \u2014 404-XXX-XXXX' at Hwy 29/Sugarloaf Pkwy & I-85 exits."
+    "action": "'OWNER FINANCE 6BR ,  $580K ,  $XX/mo ,  404-XXX-XXXX' at Hwy 29/Sugarloaf Pkwy & I-85 exits."
    },
    {
     "rank": 7,
@@ -270,14 +270,14 @@ const DATA = {
   ],
   "price_strategy": {
    "issue": "At $580K list vs Zestimate $570.6K, and comps selling $448-495K, property is priced above comp band. Owner finance justifies premium but 56 DOM + price cut signals market resistance.",
-   "recommendation": "Keep $580K headline, but advertise 'Move-in with $15-25K down' \u2014 DP flexibility is the real product being sold, not the price."
+   "recommendation": "Keep $580K headline, but advertise 'Move-in with $15-25K down' ,  DP flexibility is the real product being sold, not the price."
   },
   "legal_guardrails": [
-   "GA: Doddrick/respa \u2014 use licensed GA closing attorney (e.g., local real estate closing attorney) to draft the note + security deed; do NOT use internet templates",
-   "GA is a lien theory state \u2014 security deed (not land contract) strongly preferred; protects both parties",
+   "GA: Doddrick/respa ,  use licensed GA closing attorney (e.g., local real estate closing attorney) to draft the note + security deed; do NOT use internet templates",
+   "GA is a lien theory state ,  security deed (not land contract) strongly preferred; protects both parties",
    "Disclose 'As Is' condition per listing",
-   "Dodd-Frank: if seller does >1 seller-finance deal/yr, may trigger Dodd-Frank MLO requirements \u2014 attorney will confirm exemption status",
-   "HOA: $775/yr \u2014 include estoppel/transfer in closing checklist"
+   "Dodd-Frank: if seller does >1 seller-finance deal/yr, may trigger Dodd-Frank MLO requirements ,  attorney will confirm exemption status",
+   "HOA: $775/yr ,  include estoppel/transfer in closing checklist"
   ]
  },
  "finance-model": {
@@ -335,7 +335,7 @@ const DATA = {
    "name": "Self-Employed / 1099",
    "pain": "Tax returns make DTI a nightmare",
    "channel": "FB Groups + Craigslist + BP",
-   "hook": "No tax-return mortgage required. You show income differently \u2014 we structure accordingly."
+   "hook": "No tax-return mortgage required. You show income differently ,  we structure accordingly."
   },
   {
    "name": "Investor / Note Buyer",
@@ -347,26 +347,26 @@ const DATA = {
    "name": "Rent-to-Own (lease-option) family",
    "pain": "Need time to repair credit",
    "channel": "Zillow FSBO, RentToOwnLabs, Craigslist",
-   "hook": "Lease option available \u2014 rent credits toward down payment."
+   "hook": "Lease option available ,  rent credits toward down payment."
   }
  ],
  "ad-copy": {
   "generated": "2026-09-17T19:47:24.106920",
   "facebook_marketplace": {
-   "title": "OWNER FINANCING \u2014 6BR/3BA 3,650sqft on Cul-de-Sac, Lawrenceville \u2014 Move in with $15K down",
-   "body": "No bank needed. I'm the owner \u2014 I'll finance you directly.\n\n1244 Hadaway Ct, Lawrenceville GA 30043 (The Hadaway subdivision)\n- 6 beds / 3 baths / 3,650 sqft / 0.29 acre cul-de-sac lot\n- Finished basement in-law suite: 2 bedrooms, full bath, kitchen, SEPARATE ENTRANCE\n- Hardwood floors, granite kitchen, stone fireplace, 2-car garage\n\nOWNER FINANCE TERMS:\n- Price: $580,000\n- Down payment: as low as $15,000 (scales with credit)\n- Monthly: ~$4,300 P&I (30-yr schedule, 8.5% fixed)\n- No bank, no lender fees, fast close (7-14 days)\n\nPerfect if: bank denied you, self-employed/1099, credit 550+, need in-law suite, or want to stop renting.\n\nI pay the closing attorney. Real recorded transaction (warranty deed + security deed) \u2014 you get full title, not a land contract.\n\nReply here or text: [YOUR PHONE]. Serious buyers only. Showings daily."
+   "title": "OWNER FINANCING ,  6BR/3BA 3,650sqft on Cul-de-Sac, Lawrenceville ,  Move in with $15K down",
+   "body": "No bank needed. I'm the owner ,  I'll finance you directly.\n\n1244 Hadaway Ct, Lawrenceville GA 30043 (The Hadaway subdivision)\n- 6 beds / 3 baths / 3,650 sqft / 0.29 acre cul-de-sac lot\n- Finished basement in-law suite: 2 bedrooms, full bath, kitchen, SEPARATE ENTRANCE\n- Hardwood floors, granite kitchen, stone fireplace, 2-car garage\n\nOWNER FINANCE TERMS:\n- Price: $580,000\n- Down payment: as low as $15,000 (scales with credit)\n- Monthly: ~$4,300 P&I (30-yr schedule, 8.5% fixed)\n- No bank, no lender fees, fast close (7-14 days)\n\nPerfect if: bank denied you, self-employed/1099, credit 550+, need in-law suite, or want to stop renting.\n\nI pay the closing attorney. Real recorded transaction (warranty deed + security deed) ,  you get full title, not a land contract.\n\nReply here or text: [YOUR PHONE]. Serious buyers only. Showings daily."
   },
-  "facebook_groups_short": "OWNER FINANCE in Lawrenceville \u2014 6BR/3BA on cul-de-sac, $15K moves you in, no bank, no credit check. Bank denied you? I'm the owner and I carry the note. $580K, ~$4,300/mo. Text: [YOUR PHONE]",
+  "facebook_groups_short": "OWNER FINANCE in Lawrenceville ,  6BR/3BA on cul-de-sac, $15K moves you in, no bank, no credit check. Bank denied you? I'm the owner and I carry the note. $580K, ~$4,300/mo. Text: [YOUR PHONE]",
   "craigslist_titles": [
    "OWNER FINANCING 6BR Lawrenceville $15K down no bank GA",
    "6BR/3BA Cul-de-Sac Home Owner Will Finance - Lawrenceville"
   ],
-  "biggerpockets_marketplace": "NEW OWNER-FINANCE DEAL \u2014 Lawrenceville, GA 30043 (metro ATL)\n\n6/3, 3,650 sqft, 0.29 ac, built 1993, listed $580K. Finished basement suite with separate entrance (rentable unit potential \u2014 house-hack the downstairs).\n\nTwo ways to play:\n1) BUY IT with me carrying the note \u2014 8.5%, 30-yr am, 5-yr balloon, $15-30K down.\n2) Also listed on MLS/FMLS #10811256 \u2014 conventional buyers welcome.\n\nComps in subdivision sold $448K-495K. Rent Zestimate $2,999/mo. Also open to selling the note after origination \u2014 first position, new paper.\n\nDM or reply. Speed matters \u2014 closing before end of month.",
-  "note_buyer_email": "Subject: New first-position owner-carry note available \u2014 Lawrenceville GA (metro ATL) \u2014 $580K\n\nHi \u2014 I'm originating a seller-financed note on a 6BR/3BA, 3,650 sqft SFR in Lawrenceville, GA 30043 (Zillow zpid 14802515). Listed $580K (MLS #10811256), 56 DOM, already cut $20K \u2014 motivated to close this month.\n\nTarget terms: $560K note, 8.5%, 30-yr am with 5-yr balloon, $20K down. Closed by GA licensed attorney, recorded security deed, first position, full doc package.\n\nReply with your buy price/skin or call: [YOUR PHONE]",
+  "biggerpockets_marketplace": "NEW OWNER-FINANCE DEAL ,  Lawrenceville, GA 30043 (metro ATL)\n\n6/3, 3,650 sqft, 0.29 ac, built 1993, listed $580K. Finished basement suite with separate entrance (rentable unit potential ,  house-hack the downstairs).\n\nTwo ways to play:\n1) BUY IT with me carrying the note ,  8.5%, 30-yr am, 5-yr balloon, $15-30K down.\n2) Also listed on MLS/FMLS #10811256 ,  conventional buyers welcome.\n\nComps in subdivision sold $448K-495K. Rent Zestimate $2,999/mo. Also open to selling the note after origination ,  first position, new paper.\n\nDM or reply. Speed matters ,  closing before end of month.",
+  "note_buyer_email": "Subject: New first-position owner-carry note available ,  Lawrenceville GA (metro ATL) ,  $580K\n\nHi ,  I'm originating a seller-financed note on a 6BR/3BA, 3,650 sqft SFR in Lawrenceville, GA 30043 (Zillow zpid 14802515). Listed $580K (MLS #10811256), 56 DOM, already cut $20K ,  motivated to close this month.\n\nTarget terms: $560K note, 8.5%, 30-yr am with 5-yr balloon, $20K down. Closed by GA licensed attorney, recorded security deed, first position, full doc package.\n\nReply with your buy price/skin or call: [YOUR PHONE]",
   "objection_handling": [
    {
     "objection": "Isn't owner financing risky?",
-    "response": "Recorded transaction \u2014 you get the warranty deed day one, I hold a security deed like a bank would. GA attorney closes it, title insurance available. You own the home."
+    "response": "Recorded transaction ,  you get the warranty deed day one, I hold a security deed like a bank would. GA attorney closes it, title insurance available. You own the home."
    },
    {
     "objection": "$4,300/mo is more than rent",
@@ -374,11 +374,11 @@ const DATA = {
    },
    {
     "objection": "Why $580K when comps sold $448-495K?",
-    "response": "Comps needed bank financing + 30-45 day waits. This is $15K down and ~10-day close \u2014 the premium IS the financing. Also open to negotiating."
+    "response": "Comps needed bank financing + 30-45 day waits. It is $15K down and ~10-day close ,  the premium IS the financing. Also open to negotiating."
    },
    {
     "objection": "Can I refinance later?",
-    "response": "Yes \u2014 5-year balloon exists for exactly that. Refi into conventional when you qualify, or we renegotiate/extend."
+    "response": "Yes ,  5-year balloon exists for exactly that. Refi into conventional when you qualify, or we renegotiate/extend."
    }
   ],
   "daily_checklist": [
@@ -439,7 +439,7 @@ const DATA = {
     ]
    },
    {
-    "name": "Note Buyers in Georgia \u2013 Sell A Private Mortgage ... - Oneca Group",
+    "name": "Note Buyers in Georgia - Sell A Private Mortgage ... - Oneca Group",
     "url": "https://www.onecagroupinvestments.com/step-2/local-note-buyers/",
     "phones": [
      "678-665-0545"
@@ -575,7 +575,7 @@ const DATA = {
     "price": 485000,
     "beds": 5,
     "baths": 3,
-    "sqft": "--",
+    "sqft": "n/a",
     "status": "Closed"
    },
    {
