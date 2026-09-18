@@ -351,49 +351,63 @@ const DATA={
   }
  ],
  "ad-copy": {
-  "generated": "2026-09-18T09:00:00",
+  "generated": "2026-09-18T23:50:00",
   "facebook_marketplace": {
-   "title": "OWNER FINANCING — 6BR/3BA 3,650sqft on Cul-de-Sac, Lawrenceville — Move in with $35K down",
-   "body": "No bank needed. I'm the owner — I'll finance you directly.\n\n1244 Hadaway Ct, Lawrenceville GA 30043 (The Hadaway subdivision)\n- 6 beds / 3 baths / 3,650 sqft / 0.29 acre cul-de-sac lot\n- Finished basement in-law suite: 2 bedrooms, full bath, kitchen, SEPARATE ENTRANCE\n- Hardwood floors, granite kitchen, stone fireplace, 2-car garage\n\nOWNER FINANCE TERMS:\n- Price: $580,000\n- Down payment: from $35,000 (buyer with full income docs + 640+ credit)\n- Monthly: ~$4,190 P&I (30-yr schedule, 8.5% fixed, 5-yr balloon)\n- No bank, no lender fees, fast close (7-14 days)\n\nPerfect if: bank denied you, self-employed/1099, need an in-law suite, or want to stop renting. I verify income and credit like a bank would — that's how I can offer terms a bank can't.\n\nI pay the closing attorney. Real recorded transaction (warranty deed + security deed) — you get full title, not a land contract.\n\nReply here or text: [YOUR PHONE]. Serious buyers only. Showings daily."
+   "title": "Owner finance 6BR cul-de-sac home, Lawrenceville GA, $35K down moves you in",
+   "body": "No bank needed. I own the house and I carry the note myself.\n\n1244 Hadaway Ct, Lawrenceville GA 30043, in the Hadaway subdivision. 6 bedrooms, 3 baths, 3,650 sqft on a 0.29 acre cul-de-sac lot. The finished basement has an in-law suite with its own kitchen, full bath, and separate entrance. Hardwood floors, granite kitchen, stone fireplace, 2-car garage.\n\nOwner finance terms\nPrice $580,000\nDown payment from $35,000 if you have full income docs and 640+ credit\nAbout $4,190 per month, 30-year schedule at 8.5% fixed with a 5-year balloon\nNo bank and no lender fees, close in 7 to 14 days\n\nThis works if a bank turned you down, if you're self-employed or 1099, if you need the in-law suite, or if you're done renting. I check income and credit the way a bank would. That's how I can offer terms a bank can't.\n\nI pay the closing attorney. This is a real recorded transaction with a warranty deed and a security deed. You get full title, not a land contract.\n\nReply here or text [YOUR PHONE]. Serious buyers only, showings daily."
   },
-  "facebook_groups_short": "OWNER FINANCE in Lawrenceville — 6BR/3BA on cul-de-sac, $35K down moves you in, no bank. Self-employed or bank-denied? I'm the owner and I carry the note — you get the deed day one. $580K, ~$4,190/mo, 8.5% fixed. Text: [YOUR PHONE]",
+  "facebook_groups_short": "Owner finance in Lawrenceville. 6BR/3BA on a cul-de-sac and $35K down moves you in, no bank involved. Self-employed or turned down by a lender? I'm the owner and I carry the note, you get the deed on day one. $580K at about $4,190/mo, 8.5% fixed. Text [YOUR PHONE]",
   "craigslist_titles": [
-   "OWNER FINANCING 6BR Lawrenceville $35K down no bank GA",
-   "6BR/3BA Cul-de-Sac Home Owner Will Finance - Lawrenceville"
+   "Owner financing 6BR Lawrenceville GA, $35K down, no bank",
+   "6BR/3BA cul-de-sac home, owner will finance, Lawrenceville GA"
   ],
-  "biggerpockets_marketplace": "NEW OWNER-FINANCE DEAL — Lawrenceville, GA 30043 (metro ATL)\n\n6/3, 3,650 sqft, 0.29 ac, built 1993, listed $580K. Finished basement suite with separate entrance (rentable unit potential — house-hack the downstairs).\n\nTwo ways to play:\n1) BUY IT with me carrying the note — 8.5%, 30-yr am, 5-yr balloon, $35K minimum down (buyer pre-screened: credit, verified income, ability-to-repay file).\n2) Also listed on MLS/FMLS #10811256 — conventional buyers welcome.\n\nComps in subdivision sold $448K-495K. Rent Zestimate $2,999/mo. Also open to selling the note after origination — first position, new paper, third-party serviced from day one.\n\nDM or reply. Speed matters — closing before end of month.",
-  "note_buyer_email": "Subject: New first-position owner-carry note available — Lawrenceville GA (metro ATL) — $545K note\n\nHi — I'm originating a seller-financed note on a 6BR/3BA, 3,650 sqft SFR in Lawrenceville, GA 30043 (Zillow zpid 14802515). Listed $580K (MLS #10811256), 56 DOM, already cut $20K — motivated to close this month.\n\nTerms: $545,000 note ($35K buyer down = 6% down), 8.5% fixed, 30-yr am with 5-yr balloon. Buyer fully screened — credit report, verified income, written ability-to-repay file. Closed by GA licensed attorney, recorded security deed, first position, third-party loan serviced from day one, full doc package.\n\nReply with your buy price/skin or call: [YOUR PHONE]",
+  "biggerpockets_marketplace": "New owner-finance deal in Lawrenceville GA 30043, metro Atlanta.\n\n6 bed, 3 bath, 3,650 sqft, 0.29 acres, built 1993, listed at $580K. The finished basement suite has a separate entrance, so the downstairs is rentable if you want to house-hack.\n\nTwo ways to play this.\n\n1. Buy it with me carrying the note. 8.5% fixed, 30-year amortization, 5-year balloon, $35K minimum down. I pre-screen every buyer, credit, verified income, and a written ability-to-repay file.\n\n2. It's also on MLS/FMLS #10811256 for conventional buyers.\n\nComps in the subdivision sold between $448K and $495K. Rent Zestimate is $2,999/mo. I'm also open to selling the note after origination, first position, new paper, third-party serviced from day one.\n\nDM or reply. Speed matters here, I want to close before end of month.",
+  "note_buyer_email": "Subject: New first-position owner-carry note available, Lawrenceville GA, $545K note\n\nHi, I'm originating a seller-financed note on a 6BR/3BA, 3,650 sqft SFR in Lawrenceville, GA 30043 (Zillow zpid 14802515). Listed at $580K on MLS #10811256, 56 days on market with one $20K cut already, so I'm motivated to close this month.\n\nTerms are a $545,000 note ($35K buyer down, 6% down), 8.5% fixed, 30-year amortization with a 5-year balloon. The buyer is fully screened, credit report, verified income, and a written ability-to-repay file. A GA licensed attorney closes it, security deed recorded in first position, third-party loan servicing from day one, full doc package.\n\nReply with your buy price or call [YOUR PHONE].",
   "objection_handling": [
    {
     "objection": "Isn't owner financing risky?",
-    "response": "Recorded transaction — you get the warranty deed day one, I hold a security deed like a bank would. GA attorney closes it, title insurance available, professional loan servicer handles payments and 1098s. You own the home."
+    "response": "It's a recorded transaction. You get the warranty deed on day one and I hold a security deed like a bank would. A GA attorney closes it, title insurance is available, and a professional loan servicer handles payments and 1098s. You own the home."
    },
    {
     "objection": "$4,190/mo is more than rent",
-    "response": "Rent Zestimate is $2,999 but this has a separate-entrance basement suite. Rent the suite at $1,100-1,300/mo and your effective cost is below market rent — plus you're building equity, not paying a landlord."
+    "response": "Rent Zestimate is $2,999 but the basement suite has its own entrance. Rent that out at $1,100 to $1,300/mo and your effective cost drops below market rent, plus you're building equity instead of paying a landlord."
    },
    {
     "objection": "Why $580K when comps sold $448-495K?",
-    "response": "Comps needed bank financing + 30-45 day waits. This is no bank, ~10-day close, and I pay the closing attorney — the premium IS the financing. Also open to negotiating on strong files."
+    "response": "Those comps needed bank financing and 30 to 45 day waits. This is no bank, about a 10-day close, and I pay the closing attorney. The premium is the financing. I'll negotiate on strong files."
    },
    {
     "objection": "Can I refinance later?",
-    "response": "Yes — 5-year balloon exists for exactly that. Refi into conventional when you qualify, or we renegotiate/extend."
+    "response": "Yes, the 5-year balloon exists for exactly that. Refi into a conventional loan once you qualify, or we renegotiate and extend."
    },
    {
     "objection": "Why $35K down instead of less?",
-    "response": "Because I underwrite honestly: a buyer with real skin in the game and documented income is the buyer who still owns this house in year five — and whose refinance pays me off. It protects both of us."
+    "response": "Because I underwrite honestly. A buyer with real skin in the game and documented income is the buyer still owning this house in year five, and the refinance pays me off. It protects both of us."
    }
   ],
   "daily_checklist": [
-   "FB Marketplace: repost/bump daily",
-   "Craigslist: repost daily, rotate titles, 2 metro areas",
-   "FB Groups: rotate 3 groups/day, never same group 2x in 24h",
-   "BiggerPockets: reply to DMs within 1h",
-   "Note buyers: email batch of 10/day until 30 exhausted",
+   "FB Marketplace: repost or bump daily",
+   "Craigslist: repost daily, rotate titles, post in 2 metro areas",
+   "FB Groups: rotate 3 groups per day, never the same group twice within 24h",
+   "BiggerPockets: reply to DMs within 1 hour",
+   "Note buyers: email a batch of 10 per day until the list of 30 is exhausted",
    "Log every lead in leads.csv",
-   "Screen every buyer: credit pull + verified income + ability-to-repay file BEFORE showing terms detail"
-  ]
+   "Screen every buyer with a credit pull, verified income, and an ability-to-repay file before sharing full terms"
+  ],
+  "market_context": {
+   "gwinnett_median_value_aug2026": 403103,
+   "gwinnett_yoy_change_pct": -2.5,
+   "gwinnett_median_dom": 35,
+   "realtor_median_list_price": 457000,
+   "realtor_median_dom": 50,
+   "competitor_down_payment_range": "$20K-$40K (Golden Path Homes), 10% down ($36K on a $360K comp, 1025 Grace Dr FB group post)",
+   "source_urls": [
+    "https://www.zillow.com/home-values/2314/gwinnett-county-ga/",
+    "https://www.redfin.com/county/570/GA/Gwinnett-County/housing-market",
+    "https://www.realtor.com/local/market/georgia/gwinnett-county",
+    "https://golden-path-homes.com/owner-financing/lawrenceville-ga"
+   ]
+  }
  },
  "post-targets": {
   "facebook_groups": [
