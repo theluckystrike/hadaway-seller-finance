@@ -4,14 +4,14 @@
   "mls": "10811256",
   "parcel": "R7025 080",
   "status": "Active",
-  "price": 580000,
+  "price": 530000,
   "price_cut": {
     "date": "8/7",
     "amount": 20000,
     "prior_price": 600000
   },
   "list_date": "2026-07-23",
-  "dom": 56,
+  "dom": 57,
   "views": 119,
   "saves": 1,
   "beds": 6,
@@ -23,12 +23,12 @@
   "hoa_annual": 775,
   "tax_assessed": 484800,
   "annual_tax": 7198,
-  "zestimate": 570600,
+  "zestimate": 522300,
   "zestimate_range": [
     542000,
     599000
   ],
-  "rent_zestimate": 2999,
+  "rent_zestimate": 3112,
   "subdivision": "Hadaway",
   "features": [
     "stone fireplace",
@@ -81,5 +81,30 @@
   "source_urls": [
     "https://www.zillow.com/homedetails/1244-Hadaway-Ct-Lawrenceville-GA-30043/14802515_zpid",
     "https://www.redfin.com/GA/Lawrenceville/1244-Hadaway-Ct-30043/home/24933438"
-  ]
+  ],
+  "dom_as_of": "2026-09-18",
+  "price_history": [
+    {
+      "date": "2026-07-23",
+      "price": 620000,
+      "event": "listed"
+    },
+    {
+      "date": "2026-08-01",
+      "price": 600000,
+      "event": "cut"
+    },
+    {
+      "date": "2026-08-07",
+      "price": 580000,
+      "event": "cut"
+    },
+    {
+      "date": "2026-09-17",
+      "price": 530000,
+      "event": "cut"
+    }
+  ],
+  "hoa_monthly": 65,
+  "tax_annual": 7198
 }

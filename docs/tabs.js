@@ -120,13 +120,13 @@ document.getElementById('playbook').innerHTML = `
     <p style="font-size:14px;line-height:1.7">Pros never collect payments personally. A note servicer (~$25/mo) keeps records, handles 1098 reporting and escrow. Serviced notes sell for smaller discounts later.</p>
     <p class="note">Sign up at closing.</p></div>
   <div class="card"><h3>4. Exit Is Built In</h3>
-    <p style="font-size:14px;line-height:1.7">5-yr balloon ~$534,745 is standard (5-10 yr norms). Buyer prepares to refinance 6-12 months before balloon. Pre-commit a note buyer BEFORE originating to lock exit pricing.</p>
+    <p style="font-size:14px;line-height:1.7">Note is fully amortizing, fixed rate, no balloon (8.5%/30yr). Remaining balance after 5 years is about $472,677; a buyer typically refinances or sells well before that. Non-balloon paper prices better with note buyers. Pre-commit a note buyer BEFORE originating to lock exit pricing.</p>
     <p class="note">Call Athens Note Buyers 470-548-6711 first.</p></div>
   <div class="card"><h3>5. Dodd-Frank / SAFE Act Exemption</h3>
-    <p style="font-size:14px;line-height:1.7">One seller-financed sale of your own property per 12 months is exempt from originator licensing IF: no balloon under 2 years, fixed rate or adjustable after 5 years, and documented good-faith ability-to-repay screening. This deal's 8.5% fixed + 5-yr balloon fits.</p>
+    <p style="font-size:14px;line-height:1.7">A seller financing the sale of their own property is exempt from originator licensing under 12 CFR 1026.36(a)(5) (one-property person) if: no negative amortization, fixed rate or adjustable only after 5+ years, and documented good-faith ability-to-repay screening. A balloon would fail the three-property exemption (a)(4) outright, so this deal uses a fully amortizing note. Every deal needs the written ATR file regardless.</p>
     <p class="note">Keep the written ability-to-repay file: that IS the compliance artifact.</p></div>
   <div class="card"><h3>6. Channels Ranked for &lt;30 Days</h3>
-    <p style="font-size:14px;line-height:1.7">$29.5B in seller-financed notes were created in 2025 across 87,212 transactions; residential is 62% of volume. ~700 owner-finance homes listed in GA on Zillow means the fight is visibility. Free and fastest: FB Marketplace, FB group 814069525827283, Craigslist. Zillow/MLS stays passive; do not cut price. Terms ARE the price cut.</p>
+    <p style="font-size:14px;line-height:1.7">$29.5B in seller-financed notes were created in 2025 across 87,212 transactions; residential is 62% of volume. ~700 owner-finance homes listed in GA on Zillow means the fight is visibility. Free and fastest: FB Marketplace, FB group 814069525827283, Craigslist. Price already cut to $530K; hold there and let the terms do the work. Terms ARE the price cut.</p>
     <p class="note">Edge vs those 700 listings: 6bd + separate-entrance in-law suite.</p></div>
 </div>
 <div class="card" style="margin-top:16px"><h3>Action Order (Highest ROI First)</h3>
@@ -148,7 +148,7 @@ const SRC=[
  ['Dodd-Frank / SAFE Act one-sale exemption conditions (balloon rules, ability-to-repay)','NAR seller-financing guidance + Investopedia owner-financing overview','https://www.investopedia.com/articles/pf/08/owner-financing.asp'],
  ['Gwinnett County market: median DOM ~50 days; median sale ~$409K (down 2.7% YoY); ~half of listings fail to sell at ask','Redfin county report + Fed DOM series + tucasaengeorgia 2026 analysis','https://www.redfin.com/county/570/GA/Gwinnett-County/housing-market'],
  ['Zestimate $570,600 and rent Zestimate $2,999 for subject property','Zillow property page 14802515_zpid','https://www.zillow.com/homedetails/1244-Hadaway-Ct-Lawrenceville-GA-30043/14802515_zpid'],
- ['MLS listing facts: price $580K, cut $20K on 8/7, 56 DOM, MLS #10811256, 6/3, 3,650 sqft','MLS feed as shown on Zillow property page','same Zillow URL as above'],
+ ['MLS listing facts: price $530,000, cuts $620K-600K-580K-530K (latest $50K on 9/17), 57 DOM, MLS #10811256, 6/3, 3,650 sqft, Zestimate $522,300, rent Zestimate $3,112','MLS feed as shown on Zillow property page','https://www.zillow.com/homedetails/1244-Hadaway-Ct-Lawrenceville-GA-30043/14802515_zpid/'],
  ['Comps: 997 Sunny Glen $448K, 1205 Grace Hadaway $495K, 1021 Adah $485K, 977 Sunny Glen $485K','Zillow recent-sold/nearby data captured 2026-09-17','same Zillow URL as above'],
  ['GA note buyers: Athens Note Buyers 470-548-6711; private buyer 678-665-0545','Live web directory sweep during sprint build','see Outreach tab'],
 ];
@@ -160,4 +160,4 @@ document.getElementById('sources').innerHTML = `
 ${SRC.map(([c,s,u])=>`<tr><td style="max-width:340px">${c}</td><td>${s}</td><td><a href="${u}" target="_blank" rel="noopener">open ↗</a></td></tr>`).join('')}
 </table></div>
 <div class="card" style="margin-top:16px"><h3>Provenance of local files</h3>
-<p style="font-size:14px;line-height:1.7">data/ property.json, finance-model.json, personas.json, channel-plan.json, ad-copy.json, outreach-targets.json, post-targets.json, sprint-log.json, and VA-RUNBOOK.md were compiled 2026-09-18 from the Zillow listing page, Gwinnett market data above, and live web sweeps of GA note buyers. call-sheet.csv and leads.csv derive from outreach-targets.json. data.js is the bundled copy of those files; site/ is the source of truth, docs/ is the deployed mirror.</p></div>`;
+<p style="font-size:14px;line-height:1.7">data/ property.json, finance-model.json, personas.json, channel-plan.json, ad-copy.json, outreach-targets.json, post-targets.json, sprint-log.json, and VA-RUNBOOK.md were compiled 2026-09-19 from the Zillow listing page, Gwinnett market data above, and live web sweeps of GA note buyers. call-sheet.csv and leads.csv derive from outreach-targets.json. data.js is the bundled copy of those files; site/ is the source of truth, docs/ is the deployed mirror.</p></div>`;

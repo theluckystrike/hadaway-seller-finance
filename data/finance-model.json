@@ -1,44 +1,39 @@
 {
   "assumptions": {
-    "down_payment_options": [
-      15000,
-      20000,
-      25000,
-      30000
-    ],
-    "note_rate_pct": 8.5,
+    "rate": 0.085,
     "term_years": 30,
-    "balloon_year": 5,
-    "price": 580000
+    "balloon_years": null,
+    "tax_monthly": 600,
+    "hoa_monthly": 65,
+    "all_in_monthly_ownerfin": 4471,
+    "structure": "fully amortizing, fixed rate, no balloon (satisfies 12 CFR 1026.36(a)(5) seller-financer exemption; balloon would fail (a)(4) and risk (a)(5) interpretation)",
+    "disclosure_rule": "ads quote P&I only and always state tax ~$600/mo and HOA $65/mo are extra"
   },
   "scenarios": [
     {
-      "down": 15000,
-      "note": 565000,
-      "monthly_piti_excl_tax_ins": 4344.36,
-      "balloon_5yr": 539520.0,
-      "total_interest_5yr": 235181.67
-    },
-    {
-      "down": 20000,
-      "note": 560000,
-      "monthly_piti_excl_tax_ins": 4305.92,
-      "balloon_5yr": 534745.49,
-      "total_interest_5yr": 233100.42
+      "down": 35000,
+      "note": 495000,
+      "monthly_pi": 3806.12,
+      "total_paid_5yr": 228367.3,
+      "remaining_after_5yr": 472676.82
     },
     {
       "down": 25000,
-      "note": 555000,
-      "monthly_piti_excl_tax_ins": 4267.47,
-      "balloon_5yr": 529970.98,
-      "total_interest_5yr": 231019.17
+      "note": 505000,
+      "monthly_pi": 3883.01
     },
     {
-      "down": 30000,
-      "note": 550000,
-      "monthly_piti_excl_tax_ins": 4229.02,
-      "balloon_5yr": 525196.46,
-      "total_interest_5yr": 228937.91
+      "down": 20000,
+      "note": 510000,
+      "monthly_pi": 3921.46
     }
-  ]
+  ],
+  "list_price": 530000,
+  "conventional_benchmark": {
+    "rate": 0.07,
+    "down": 0.2,
+    "monthly_pi": 2820.88,
+    "all_in_monthly": 3485.72,
+    "note": "Benchmark only. Target buyer cannot qualify conventionally; owner finance sells access, not rate."
+  }
 }

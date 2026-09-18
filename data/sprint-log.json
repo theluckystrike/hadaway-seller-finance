@@ -1,12 +1,14 @@
 {
-  "sprint_date": "2026-09-17",
+  "sprint_date": "2026-09-18",
   "completed": [
     "Landing page live: https://theluckystrike.github.io/hadaway-seller-finance/ (verified 200 + opened in Chrome)",
     "Repo: github.com/theluckystrike/hadaway-seller-finance (3 commits)",
     "Finance model: 4 down-payment scenarios, 8.5%, 30yr/5yr balloon",
     "Ad copy pack: FB/CL/BP/note-buyer email + objection scripts",
     "35 note-buyer/investor targets researched; 9 contactable (phones/emails) -> call-sheet.csv",
-    "Buyer-pool channel map -> post-targets.json (4 FB groups, CL, Zillow FSBO, FSBO.com)"
+    "Buyer-pool channel map -> post-targets.json (4 FB groups, CL, Zillow FSBO, FSBO.com)",
+    "2026-09-18 audit pass: $35K scenario added to finance model, DOM 57, channel-plan/personas aligned to $35K floor, ad-copy humanized, VA runbook added, tabs.js [YOUR PHONE] render bug fixed",
+    "2026-09-19 re-anchor: Zillow live-verified price cut to $530K (9/17, $50K cut), Zestimate $522.3K, rent $3,112. All copy re-anchored: $495K note, $3,806/mo P&I, balloon $472,677. Conventional benchmark 7.0%/20% = $2,821 P&I / $3,486 all-in recorded. Market+compliance audits via parallel agents."
   ],
   "blockers_user_only": [
     "Phone number needed for all ad copy ([YOUR PHONE] placeholders)",
