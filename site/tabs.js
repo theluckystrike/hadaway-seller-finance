@@ -81,9 +81,9 @@ function renderCopy(obj, depth){
   let h='';
   for(const [k,v] of Object.entries(obj)){
     if(typeof v==='string'){
-      h+=`<details ${depth===0?'open':''}><summary>${k}</summary><div class="pre">${v.replace(/[YOUR PHONE]/g,'<b style="color:var(--red)">[YOUR PHONE]</b>')}</div></details>`;
+      h+=`<details ${depth===0?'open':''}><summary>${k}</summary><div class="pre">${v.replaceAll('[YOUR PHONE]','<b style="color:var(--red)">[YOUR PHONE]</b>')}</div></details>`;
     } else if(Array.isArray(v)){
-      h+=`<details ${depth===0?'open':''}><summary>${k}</summary>`+v.map(x=>`<div class="pre">${typeof x==='string'?x.replace(/[YOUR PHONE]/g,'<b style="color:var(--red)">[YOUR PHONE]</b>'):JSON.stringify(x,null,1)}</div>`).join('')+`</details>`;
+      h+=`<details ${depth===0?'open':''}><summary>${k}</summary>`+v.map(x=>`<div class="pre">${typeof x==='string'?x.replaceAll('[YOUR PHONE]','<b style="color:var(--red)">[YOUR PHONE]</b>'):JSON.stringify(x,null,1)}</div>`).join('')+`</details>`;
     } else if(typeof v==='object'&&v){
       h+=`<details><summary>${k}</summary>${renderCopy(v,depth+1)}</details>`;
     }
